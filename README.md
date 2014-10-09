@@ -3,7 +3,6 @@ PHP-Youtube-to-MP3-Converter
 
 Download youtube videos as mp3 with using youtube-mp3.org
 
-============================
 
 EXAMPLE URL : http://www.youtube.com/watch?v=ydRAb9cwHnA<br>
 EXAMPLE URL ID : ydRAb9cwHnA<br>
